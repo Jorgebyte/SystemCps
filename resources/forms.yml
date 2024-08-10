@@ -1,0 +1,3 @@
+# Form to be sent when the CPS limit is exceeded #
+title_warning: "Warning"
+content_warning: "It is forbidden to exceed the CPS limit, avoid doing so to avoid being expelled"

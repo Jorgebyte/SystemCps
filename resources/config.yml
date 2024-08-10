@@ -1,0 +1,5 @@
+# CPS Limit Configuration
+cps_limit: 20 # The maximum CPS allowed before a warning is issued
+
+# Warning Settings
+max_warnings: 4 # The maximum number of warnings a player can receive before being banned

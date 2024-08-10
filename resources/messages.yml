@@ -1,0 +1,3 @@
+# Messages
+msg_kick: "§cYou have been expelled for exceeding the cps limit"
+broadcast_msg_kick: "§e{NAME} §cWas expelled for exceeding the cps limit"
