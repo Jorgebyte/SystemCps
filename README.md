@@ -1,5 +1,6 @@
 # SystemCps
 SystemCps is a user click per second counter system, which also includes a cps limiter, meaning you can configure the cps limit and maximum alerts.
+[![](https://poggit.pmmp.io/shield.state/SystemCps)](https://poggit.pmmp.io/p/SystemCps)
 
 # Config
 ```YAML
@@ -23,5 +24,5 @@ msg_kick: "§cYou have been expelled for exceeding the cps limit"
 broadcast_msg_kick: "§e{NAME} §cWas expelled for exceeding the cps limit"
 ```
 
-## Contact
+# Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/1165097093480853634?theme=dark&bg=005cff&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Hello)](https://discord.com/users/1165097093480853634)
