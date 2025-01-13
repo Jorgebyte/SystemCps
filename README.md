@@ -2,6 +2,8 @@
 SystemCps is a user click per second counter system, which also includes a cps limiter, meaning you can configure the cps limit and maximum alerts.
 [![](https://poggit.pmmp.io/shield.state/SystemCps)](https://poggit.pmmp.io/p/SystemCps)
 
+#
+
 # Config
 ```YAML
 # CPS Limit Configuration
@@ -10,7 +12,10 @@ cps_limit: 20 # The maximum CPS allowed before a warning is issued
 # Warning Settings
 max_warnings: 4 # The maximum number of warnings a player can receive before being banned
 ```
-
+# Features
+* Count the clicks on the air
+* system that expels if the allowed clicks are exceeded
+* easy to set up
 # Form
 ```YAML
 # Form to be sent when the CPS limit is exceeded #

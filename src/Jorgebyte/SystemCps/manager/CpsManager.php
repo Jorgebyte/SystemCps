@@ -3,11 +3,8 @@
 namespace Jorgebyte\SystemCps\manager;
 
 use Jorgebyte\SystemCps\form\WarningForm;
-use Jorgebyte\SystemCps\Main;
 use pocketmine\player\Player;
-use pocketmine\scheduler\ClosureTask;
 use pocketmine\Server;
-use pocketmine\utils\Config;
 
 class CpsManager
 {
